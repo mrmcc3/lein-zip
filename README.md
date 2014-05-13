@@ -4,6 +4,10 @@ Zips files
 
 ## Example Usage
 
+```clojure
+[lein-zip "0.1.0"]
+```
+
 Add the following to project.clj
 
 ```clojure
