@@ -1,6 +1,6 @@
 # lein-zip
 
-Zips files
+minimal leiningen plugin that zips files
 
 ## Example Usage
 
