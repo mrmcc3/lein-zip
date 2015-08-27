@@ -14,6 +14,13 @@ Add the following to project.clj
 :zip ["file1" "resources/file2" "target/production.jar"]
 ```
 
+Or for a single file out of a folder
+
+```clojure
+:zip ["file1" "resources/file2"  {:file-name "production.jar" :file-folder "target" }]
+```
+
+
 Then
 
     $ lein zip
