@@ -1,4 +1,4 @@
-(defproject lein-zip "0.1.0"
+(defproject lein-zip "0.1.1"
   :description "Zips files"
   :url "https://github.com/mrmcc3/lein-zip"
   :license {:name "Eclipse Public License"
